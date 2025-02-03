@@ -19,13 +19,16 @@ TODO: adicionar comandos para atualizar o repo local
 - comando: `git remote add origin <link-trocar>`
 - comando: `git push origin main`
 
+![Imagem do git](https://e7.pngegg.com/pngimages/713/558/png-clipart-computer-icons-pro-git-github-logo-text-logo-thumbnail.png)
+
+
+## Criar markdowns
+1. [Cheat-sheet (folha com os comandos)](https://www.markdownguide.org/cheat-sheet/)
+2. [https://github.com/luong-komorebi/Markdown-Tutorial/blob/master/README_pt-BR.md](https://github.com/luong-komorebi/Markdown-Tutorial/blob/master/README_pt-BR.md)
+3. [Jogo markdown](https://commonmark.org/help/tutorial/)
 
 
 
-
-
-
-![Imagem do git](https://www.driven.com.br/wp-content/uploads/2022/09/imagem-de-destaque-39.png)
 
 
 
