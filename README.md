@@ -14,8 +14,8 @@ comando: git status
 comando: git commit -m "Mensagem da modificação"
 navegador: Criar o repo no GitHub
 navegador: Copiar o link
-comando: git remote add origin <link>
-git push origin main
+comando: git remote add origin https://github.com/franciscosensaulas/teste-git.git
+comando: git push origin main
 
 
 
